@@ -1,0 +1,894 @@
+{
+    "schema_version": 3,
+    "type": "character",
+    "character": {
+        "oldId": "-M1buVvnNaVtSW0HsvoA",
+        "name": "Airship Etheris",
+        "avatar": "https://s3.amazonaws.com/files.d20.io/images/106585314/cjkFj8-qxGoQIFzlm2V7vQ/med.jpg?1583362045",
+        "bio": "%3Cp%3E%3C/p%3E%3Cp%3E%3C/p%3E%3Ch1%3EETHERIS%3Cbr%3E%3C/h1%3E%3Cp%3EDescri%E7%E3o%20Gen%E9rica.%3Cbr%3E%3C/p%3E%3Chr%3E%3Cp%3E%3Cb%3E%3Ca%20href%3D%22http%3A//journal.roll20.net/character/-LN3ezBZnxXf0qO19REY%22%3E%3Cspan%20style%3D%22background-color%3A%20inherit%22%3E%3C/span%3E%3C/a%3EArmaz%E9m%3A%3C/b%3E%3C/p%3E%3Cp%3E%3Cb%3E%3Cbr%3E%3C/b%3E%3Cbr%3E%3C/p%3E%3Chr%3E%3Cb%3E%3Cimg%20src%3D%22https%3A//s3.amazonaws.com/files.d20.io/images/101844850/fJNCU6vo0S9ywwaQALAyCw/med.png%3F1579150560%22%20draggable%3D%22false%22%20style%3D%22width%3A%20245.567px%20%3B%20height%3A%2055.9641px%22%3E%3Cbr%3EFOR%3D%20%3C/b%3EPropulsor%20do%20n%FAcleo%20da%20Airship.%3Cbr%3E%3Cp%3E%3Cb%3EDES%3D%20%3C/b%3EManobrabilidade%2C%20facilidade%20de%20manobrar.%3Cb%3E%3Cbr%3ECON%3D%20%3C/b%3EDurabilidade%2C%20Material.%3Cb%3E%3Cbr%3ECAR%3D%20%3C/b%3EApar%EAncia%3Cbr%3E%3C/p%3E%3Chr%3E%3Ch3%3E%3Cspan%20style%3D%22font-weight%3A%20bold%22%3ETripula%E7%E3o%20Principal%3A%3C/span%3E%3C/h3%3E%3Ch3%3E%3Cspan%20style%3D%22font-weight%3A%20bold%22%3E%3C/span%3E%3C/h3%3E%3Cbr%3E%3Ctable%20class%3D%22userscript-table%20userscript-table-bordered%22%3E%3Ctbody%3E%3C/tbody%3E%3C/table%3E%3Chr%3E%3Ch3%3E%3Cb%3EInforma%E7%F5es%20sobre%20Airships%3A%3C/b%3E%3C/h3%3E%3Ctable%20class%3D%22userscript-table%20userscript-table-bordered%22%3E%3Ctbody%3E%3Ctr%3E%3Ctd%20align%3D%22center%22%3E%3Cb%3ESize%3Cbr%3E%3C/b%3E%3C/td%3E%3Ctd%20align%3D%22center%22%3E%3Cb%3ECA%3Cbr%3E%3C/b%3E%3C/td%3E%3Ctd%20align%3D%22center%22%3E%3Cb%3EMax%20Crew%3Cbr%3E%3C/b%3E%3C/td%3E%3Ctd%20align%3D%22center%22%3E%3Cb%3ECarga%3C/b%3E%3Cbr%3E%3C/td%3E%3Ctd%20align%3D%22center%22%3E%3Cb%3EBase%20Speed%3Cbr%3E%3C/b%3E%3C/td%3E%3Ctd%20align%3D%22center%22%3E%3Cb%3EHit%20Points%3Cbr%3E%3C/b%3E%3C/td%3E%3C/tr%3E%3Ctr%3E%3Ctd%3E%3Cb%3ESmall%3Cbr%3E%3C/b%3E%3C/td%3E%3Ctd%20align%3D%22center%22%3EDES%3Cbr%3E%3C/td%3E%3Ctd%20align%3D%22center%22%3E10-15%3Cbr%3E%3C/td%3E%3Ctd%20align%3D%22center%22%3E2.000%20lb.%3Cbr%3E%3C/td%3E%3Ctd%20align%3D%22center%22%3E%3Ci%3E100fts%3Cbr%3E%3C/i%3E%3C/td%3E%3Ctd%20align%3D%22center%22%3E300%20Pv%27s%3Cbr%3E%3C/td%3E%3C/tr%3E%3Ctr%3E%3Ctd%3E%3Cb%3EMedium%3Cbr%3E%3C/b%3E%3C/td%3E%3Ctd%20align%3D%22center%22%3EDES%3Cbr%3E%3C/td%3E%3Ctd%20align%3D%22center%22%3E30-40%3Cbr%3E%3C/td%3E%3Ctd%20align%3D%22center%22%3E5.000%20lb.%3C/td%3E%3Ctd%20align%3D%22center%22%3E%3Ci%3E80fts%3Cbr%3E%3C/i%3E%3C/td%3E%3Ctd%20align%3D%22center%22%3E500%20Pv%27s%3Cbr%3E%3C/td%3E%3C/tr%3E%3Ctr%3E%3Ctd%3E%3Cb%3ELarge%3Cbr%3E%3C/b%3E%3C/td%3E%3Ctd%20align%3D%22center%22%3ECON%3Cbr%3E%3C/td%3E%3Ctd%20align%3D%22center%22%3E50-100%3Cbr%3E%3C/td%3E%3Ctd%20align%3D%22center%22%3E10.000%20lb.%3C/td%3E%3Ctd%20align%3D%22center%22%3E%3Ci%3E60fts%3Cbr%3E%3C/i%3E%3C/td%3E%3Ctd%20align%3D%22center%22%3E1000%20Pv%27s%3Cbr%3E%3C/td%3E%3C/tr%3E%3Ctr%3E%3Ctd%3E%3Cb%3EHuge%3C/b%3E%3C/td%3E%3Ctd%20align%3D%22center%22%3ECON%3Cbr%3E%3C/td%3E%3Ctd%20align%3D%22center%22%3E500-1000%3Cbr%3E%3C/td%3E%3Ctd%20align%3D%22center%22%3E30.000%20lb.%3C/td%3E%3Ctd%20align%3D%22center%22%3E%3Ci%3E40fts%3Cbr%3E%3C/i%3E%3C/td%3E%3Ctd%20align%3D%22center%22%3E3000%20Pv%27s%3Cbr%3E%3C/td%3E%3C/tr%3E%3Ctr%3E%3Ctd%3E%3Cb%3EGargantual%3Cbr%3E%3C/b%3E%3C/td%3E%3Ctd%20align%3D%22center%22%3ECON%3Cbr%3E%3C/td%3E%3Ctd%20align%3D%22center%22%3EIndefinido%3Cbr%3E%3C/td%3E%3Ctd%20align%3D%22center%22%3EInd.%3C/td%3E%3Ctd%20align%3D%22center%22%3EIndefinido%3Cbr%3E%3C/td%3E%3Ctd%20align%3D%22center%22%3EIndefinido%3Cbr%3E%3C/td%3E%3C/tr%3E%3C/tbody%3E%3C/table%3E%3Cbr%3E%3Cp%3E%3Cspan%20style%3D%22font-style%3A%20italic%22%3E%3Cspan%20style%3D%22color%3A%20rgb%28%2099%20%2C%200%20%2C%200%20%29%22%3EOBS%3A%3Cb%3E%20%3C/b%3EAdiciona%20a%20CA%20o%20modificador%20de%20profici%EAncia%20do%20piloto%20caso%20ele%20tenha%20prof%EEci%EAncia%20em%20pilotar.%3C/span%3E%3C/span%3E%3C/p%3E%3Cspan%20style%3D%22font-style%3A%20italic%22%3E%3Cspan%20style%3D%22color%3A%20rgb%28%2099%20%2C%200%20%2C%200%20%29%22%3EModificador%20CON%20%3D%2010%25%20de%20Pv%27s%20extra%3C/span%3E%3C/span%3E%3Cbr%3E%3Cspan%20style%3D%22font-style%3A%20italic%22%3E%3Cspan%20style%3D%22color%3A%20rgb%28%2099%20%2C%200%20%2C%200%20%29%22%3E%3Cspan%20style%3D%22font-style%3A%20italic%22%3E%3Cspan%20style%3D%22color%3A%20rgb%28%2099%20%2C%200%20%2C%200%20%29%22%3EModificador%20FOR%20%3D%2010%25%20de%20Carga%20extra%3C/span%3E%3C/span%3E%3C/span%3E%3C/span%3E%3Cp%3E%3C/p%3E%3Cp%3E%3Cspan%20style%3D%22font-style%3A%20italic%22%3E%3Cspan%20style%3D%22color%3A%20rgb%28%2099%20%2C%200%20%2C%200%20%29%22%3E%3Cspan%20style%3D%22font-style%3A%20italic%22%3E%3Cspan%20style%3D%22color%3A%20rgb%28%2099%20%2C%200%20%2C%200%20%29%22%3EGeralmente%20o%20custo%20de%20reparo%20de%20uma%20Airship%20%E9%2010%25%20de%20seu%20valor.%20%28Em%20estado%20critico%20at%E9%2030%25%29%3Cbr%3E%3C/span%3E%3C/span%3E%3C/span%3E%3C/span%3E%3Cbr%3E%3Cb%3EVelocidade%20F%F3rmula%3A%3Cbr%3E%3C/b%3EBase%20Speed%20+%2010%20x%20%28STR%20-%20CON%29%20%3D%20Flying%20Speed%3Cbr%3E%3C/p%3E%3Cp%3E%3Cbr%3E%3C/p%3E%3Cp%3E%3C/p%3E%3Cp%3E%3C/p%3E",
+        "gmnotes": "",
+        "defaulttoken": "{\"imgsrc\":\"https://s3.amazonaws.com/files.d20.io/images/106585314/cjkFj8-qxGoQIFzlm2V7vQ/med.jpg?1583362045\",\"height\":70,\"width\":70,\"name\":\"Airship Etheris\",\"represents\":\"-M1buVvnNaVtSW0HsvoA\"}",
+        "tags": "[]",
+        "controlledby": "-M03ph1HQQ1ma9T28Xlu,-M10n6k9hd_orR8IIkq3,-M-zEAVqwZNZMhJJPFrH,-M-zF9bEhX31oiUE6XWp,-M-zfU75CJjJXRzcbY5k,-M00BrDT1KSMO_jgRtOU",
+        "inplayerjournals": "-M03ph1HQQ1ma9T28Xlu,-M10n6k9hd_orR8IIkq3,-M00BrDT1KSMO_jgRtOU,-M-zfU75CJjJXRzcbY5k,-M-zEAVqwZNZMhJJPFrH,-M-zF9bEhX31oiUE6XWp",
+        "attribs": [
+            {
+                "name": "l1mancer_status",
+                "current": "completed",
+                "max": "",
+                "id": "-M1buVxVgb8Bd6qvrUV0"
+            },
+            {
+                "name": "rtype",
+                "current": "@{advantagetoggle}",
+                "max": "",
+                "id": "-M1buVxVgb8Bd6qvrUV1"
+            },
+            {
+                "name": "wtype",
+                "current": "@{whispertoggle}",
+                "max": "",
+                "id": "-M1buVxWnRLgrrszHinW"
+            },
+            {
+                "name": "dtype",
+                "current": "full",
+                "max": "",
+                "id": "-M1buVxWnRLgrrszHinX"
+            },
+            {
+                "name": "dndstyling",
+                "current": "on",
+                "max": "",
+                "id": "-M1buVxWnRLgrrszHinY"
+            },
+            {
+                "name": "version",
+                "current": 4.21,
+                "max": "",
+                "id": "-M1buVxWnRLgrrszHinZ"
+            },
+            {
+                "name": "mancer_confirm_flag",
+                "current": "",
+                "max": "",
+                "id": "-M1buVxWnRLgrrszHin_"
+            },
+            {
+                "name": "mancer_npc",
+                "current": "on",
+                "max": "",
+                "id": "-M1buVxWnRLgrrszHina"
+            },
+            {
+                "name": "npc",
+                "current": "1",
+                "max": "",
+                "id": "-M1buVxXOX6IbL-iR0pj"
+            },
+            {
+                "name": "npc_name",
+                "current": "Airship",
+                "max": "",
+                "id": "-M1buVxYh99INTLRNVFo"
+            },
+            {
+                "name": "npc_ac",
+                "current": "19",
+                "max": "",
+                "id": "-M1buVxYh99INTLRNVFp"
+            },
+            {
+                "name": "npc_actype",
+                "current": "Armada (Placa de Ferro)",
+                "max": "",
+                "id": "-M1buVxYh99INTLRNVFq"
+            },
+            {
+                "name": "hp",
+                "current": "",
+                "max": "800",
+                "id": "-M1buVxYh99INTLRNVFr"
+            },
+            {
+                "name": "npc_hpformula",
+                "current": "800",
+                "max": "",
+                "id": "-M1buVxYh99INTLRNVFs"
+            },
+            {
+                "name": "npc_speed",
+                "current": "100ft fly",
+                "max": "",
+                "id": "-M1buVxYh99INTLRNVFt"
+            },
+            {
+                "name": "npc_options-flag",
+                "current": "0",
+                "max": "",
+                "id": "-M1buVxZ7AVfIZE_LjTQ"
+            },
+            {
+                "name": "npc_type",
+                "current": "Airship",
+                "max": "",
+                "id": "-M1buVxZ7AVfIZE_LjTR"
+            },
+            {
+                "name": "npc_condition_immunities",
+                "current": "All",
+                "max": "",
+                "id": "-M1buVxZ7AVfIZE_LjTS"
+            },
+            {
+                "name": "npc_immunities",
+                "current": "Poison, Psychic",
+                "max": "",
+                "id": "-M1buVx_s2WZc1o0Q8XW"
+            },
+            {
+                "name": "npc_challenge",
+                "current": "5",
+                "max": "",
+                "id": "-M1buVx_s2WZc1o0Q8XX"
+            },
+            {
+                "name": "npc_xp",
+                "current": 1800,
+                "max": "",
+                "id": "-M1buVx_s2WZc1o0Q8XY"
+            },
+            {
+                "name": "pb_custom",
+                "current": 3,
+                "max": "",
+                "id": "-M1buVx_s2WZc1o0Q8XZ"
+            },
+            {
+                "name": "pb_type",
+                "current": "custom",
+                "max": "",
+                "id": "-M1buVx_s2WZc1o0Q8X_"
+            },
+            {
+                "name": "pb",
+                "current": 3,
+                "max": "",
+                "id": "-M1buVx_s2WZc1o0Q8Xa"
+            },
+            {
+                "name": "jack",
+                "current": 1,
+                "max": "",
+                "id": "-M1buVxasa0U_j_j6xq1"
+            },
+            {
+                "name": "pbd_safe",
+                "current": "",
+                "max": "",
+                "id": "-M1buVxasa0U_j_j6xq2"
+            },
+            {
+                "name": "spell_attack_bonus",
+                "current": "0",
+                "max": "",
+                "id": "-M1buVxasa0U_j_j6xq3"
+            },
+            {
+                "name": "spell_save_dc",
+                "current": "0",
+                "max": "",
+                "id": "-M1buVxbNZ_FczriBU1N"
+            },
+            {
+                "name": "jack_bonus",
+                "current": "",
+                "max": "",
+                "id": "-M1buVxbNZ_FczriBU1O"
+            },
+            {
+                "name": "jack_attr",
+                "current": "",
+                "max": "",
+                "id": "-M1buVxc74unOOJ0aO8R"
+            },
+            {
+                "name": "initiative_bonus",
+                "current": 2,
+                "max": "",
+                "id": "-M1buVxc74unOOJ0aO8S"
+            },
+            {
+                "name": "strength_save_bonus",
+                "current": 2,
+                "max": "",
+                "id": "-M1buVxc74unOOJ0aO8T"
+            },
+            {
+                "name": "dexterity_save_bonus",
+                "current": 2,
+                "max": "",
+                "id": "-M1buVxd72LbOyxLyo3h"
+            },
+            {
+                "name": "constitution_save_bonus",
+                "current": 3,
+                "max": "",
+                "id": "-M1buVxd72LbOyxLyo3i"
+            },
+            {
+                "name": "intelligence_save_bonus",
+                "current": 0,
+                "max": "",
+                "id": "-M1buVxd72LbOyxLyo3j"
+            },
+            {
+                "name": "wisdom_save_bonus",
+                "current": 0,
+                "max": "",
+                "id": "-M1buVxd72LbOyxLyo3k"
+            },
+            {
+                "name": "charisma_save_bonus",
+                "current": 0,
+                "max": "",
+                "id": "-M1buVxd72LbOyxLyo3l"
+            },
+            {
+                "name": "death_save_bonus",
+                "current": 0,
+                "max": "",
+                "id": "-M1buVxd72LbOyxLyo3m"
+            },
+            {
+                "name": "athletics_bonus",
+                "current": 2,
+                "max": "",
+                "id": "-M1buVxeZHwgBbbkVb_L"
+            },
+            {
+                "name": "acrobatics_bonus",
+                "current": 2,
+                "max": "",
+                "id": "-M1buVxfA5pdp708Qaf3"
+            },
+            {
+                "name": "sleight_of_hand_bonus",
+                "current": 2,
+                "max": "",
+                "id": "-M1buVxfA5pdp708Qaf4"
+            },
+            {
+                "name": "stealth_bonus",
+                "current": 2,
+                "max": "",
+                "id": "-M1buVxfA5pdp708Qaf5"
+            },
+            {
+                "name": "arcana_bonus",
+                "current": 0,
+                "max": "",
+                "id": "-M1buVxfA5pdp708Qaf6"
+            },
+            {
+                "name": "history_bonus",
+                "current": 0,
+                "max": "",
+                "id": "-M1buVxgRMssq796MhlN"
+            },
+            {
+                "name": "investigation_bonus",
+                "current": 0,
+                "max": "",
+                "id": "-M1buVxgRMssq796MhlO"
+            },
+            {
+                "name": "nature_bonus",
+                "current": 0,
+                "max": "",
+                "id": "-M1buVxgRMssq796MhlP"
+            },
+            {
+                "name": "religion_bonus",
+                "current": 0,
+                "max": "",
+                "id": "-M1buVxhT0hCt8O3uDdR"
+            },
+            {
+                "name": "animal_handling_bonus",
+                "current": 0,
+                "max": "",
+                "id": "-M1buVxhT0hCt8O3uDdS"
+            },
+            {
+                "name": "insight_bonus",
+                "current": 0,
+                "max": "",
+                "id": "-M1buVxhT0hCt8O3uDdT"
+            },
+            {
+                "name": "medicine_bonus",
+                "current": 0,
+                "max": "",
+                "id": "-M1buVxhT0hCt8O3uDdU"
+            },
+            {
+                "name": "perception_bonus",
+                "current": 0,
+                "max": "",
+                "id": "-M1buVxhT0hCt8O3uDdV"
+            },
+            {
+                "name": "survival_bonus",
+                "current": 0,
+                "max": "",
+                "id": "-M1buVxidPeHZQg6coa4"
+            },
+            {
+                "name": "deception_bonus",
+                "current": 0,
+                "max": "",
+                "id": "-M1buVxidPeHZQg6coa5"
+            },
+            {
+                "name": "intimidation_bonus",
+                "current": 0,
+                "max": "",
+                "id": "-M1buVxidPeHZQg6coa6"
+            },
+            {
+                "name": "performance_bonus",
+                "current": 0,
+                "max": "",
+                "id": "-M1buVxidPeHZQg6coa7"
+            },
+            {
+                "name": "persuasion_bonus",
+                "current": 0,
+                "max": "",
+                "id": "-M1buVxidPeHZQg6coa8"
+            },
+            {
+                "name": "passive_wisdom",
+                "current": 10,
+                "max": "",
+                "id": "-M1buVxj5tKn_iETLiUH"
+            },
+            {
+                "name": "npc_languages",
+                "current": "Valor: 3.000 🥇",
+                "max": "",
+                "id": "-M1buVxj5tKn_iETLiUI"
+            },
+            {
+                "name": "repeating_npcaction_-LyXSWh8cfnT0FtSdLLF_name",
+                "current": "Espectral Ram (Colisão frontal)",
+                "max": "",
+                "id": "-M1buVxj5tKn_iETLiUJ"
+            },
+            {
+                "name": "repeating_npcaction_-LyXSWh8cfnT0FtSdLLF_attack_flag",
+                "current": "on",
+                "max": "",
+                "id": "-M1buVxj5tKn_iETLiUK"
+            },
+            {
+                "name": "repeating_npcaction_-LyXSWh8cfnT0FtSdLLF_attack_tohitrange",
+                "current": "+8, Reach 5fts",
+                "max": "",
+                "id": "-M1buVxj5tKn_iETLiUL"
+            },
+            {
+                "name": "repeating_npcaction_-LyXSWh8cfnT0FtSdLLF_attack_onhit",
+                "current": "16 (3d10) Bludgeoning damage plus 16 (3d10) Self damage damage",
+                "max": "",
+                "id": "-M1buVxkebpphbWtv5WM"
+            },
+            {
+                "name": "repeating_npcaction_-LyXSWh8cfnT0FtSdLLF_damage_flag",
+                "current": "{{damage=1}} {{dmg1flag=1}} {{dmg2flag=1}} ",
+                "max": "",
+                "id": "-M1buVxkebpphbWtv5WN"
+            },
+            {
+                "name": "repeating_npcaction_-LyXSWh8cfnT0FtSdLLF_attack_crit",
+                "current": "3d10",
+                "max": "",
+                "id": "-M1buVxkebpphbWtv5WO"
+            },
+            {
+                "name": "repeating_npcaction_-LyXSWh8cfnT0FtSdLLF_attack_crit2",
+                "current": "3d10",
+                "max": "",
+                "id": "-M1buVxlkKBL7V5DErcq"
+            },
+            {
+                "name": "repeating_npcaction_-LyXSWh8cfnT0FtSdLLF_rollbase",
+                "current": "@{wtype}&{template:npcfullatk} {{attack=1}} @{damage_flag} @{npc_name_flag} {{rname=@{name}}} {{r1=[[@{d20}+(@{attack_tohit}+0)]]}} @{rtype}+(@{attack_tohit}+0)]]}} {{dmg1=[[@{attack_damage}+0]]}} {{dmg1type=@{attack_damagetype}}} {{dmg2=[[@{attack_damage2}+0]]}} {{dmg2type=@{attack_damagetype2}}} {{crit1=[[@{attack_crit}+0]]}} {{crit2=[[@{attack_crit2}+0]]}} {{description=@{show_desc}}} @{charname_output}",
+                "max": "",
+                "id": "-M1buVxlkKBL7V5DErcr"
+            },
+            {
+                "name": "repeating_npcaction_-LyXSWh8cfnT0FtSdLLF_attack_damage",
+                "current": "3d10",
+                "max": "",
+                "id": "-M1buVxmuUiIa2TUmWog"
+            },
+            {
+                "name": "repeating_npcaction_-LyXSWh8cfnT0FtSdLLF_attack_damagetype",
+                "current": "Bludgeoning",
+                "max": "",
+                "id": "-M1buVxmuUiIa2TUmWoh"
+            },
+            {
+                "name": "repeating_npcaction_-LyXSWh8cfnT0FtSdLLF_attack_tohit",
+                "current": "8",
+                "max": "",
+                "id": "-M1buVxmuUiIa2TUmWoi"
+            },
+            {
+                "name": "repeating_npcaction_-LyXSWh8cfnT0FtSdLLF_attack_range",
+                "current": "5fts",
+                "max": "",
+                "id": "-M1buVxmuUiIa2TUmWoj"
+            },
+            {
+                "name": "repeating_npcaction_-LyXSWh8cfnT0FtSdLLF_attack_damagetype2",
+                "current": "Self damage",
+                "max": "",
+                "id": "-M1buVxmuUiIa2TUmWok"
+            },
+            {
+                "name": "repeating_npcaction_-LyXSWh8cfnT0FtSdLLF_attack_damage2",
+                "current": "3d10",
+                "max": "",
+                "id": "-M1buVxmuUiIa2TUmWol"
+            },
+            {
+                "name": "repeating_npcaction_-LyXSWh8cfnT0FtSdLLF_description",
+                "current": "Ao acertar a Colisão se torna Sólida, caso erre o corpo da Airship e todos os tripulantes dela atravessam a adversária até o outro lado.",
+                "max": "",
+                "id": "-M1buVxn2SpYdCyC8hh2"
+            },
+            {
+                "name": "repeating_npcaction_-LyXSWh8cfnT0FtSdLLF_npc_options-flag",
+                "current": "0",
+                "max": "",
+                "id": "-M1buVxoKa7kaQ-TtX1r"
+            },
+            {
+                "name": "repeating_npcaction_-LyXT3cLTUmtwd09eZsZ_name",
+                "current": "Balista Pesada",
+                "max": "",
+                "id": "-M1buVxoKa7kaQ-TtX1s"
+            },
+            {
+                "name": "repeating_npcaction_-LyXT3cLTUmtwd09eZsZ_attack_flag",
+                "current": "on",
+                "max": "",
+                "id": "-M1buVxoKa7kaQ-TtX1t"
+            },
+            {
+                "name": "repeating_npcaction_-LyXT3cLTUmtwd09eZsZ_attack_tohitrange",
+                "current": "+12, Range 120/480 ft, Um alvo",
+                "max": "",
+                "id": "-M1buVxoKa7kaQ-TtX1u"
+            },
+            {
+                "name": "repeating_npcaction_-LyXT3cLTUmtwd09eZsZ_attack_onhit",
+                "current": "16 (3d10) Perfurante damage",
+                "max": "",
+                "id": "-M1buVxoKa7kaQ-TtX1v"
+            },
+            {
+                "name": "repeating_npcaction_-LyXT3cLTUmtwd09eZsZ_damage_flag",
+                "current": "{{damage=1}} {{dmg1flag=1}} ",
+                "max": "",
+                "id": "-M1buVxoKa7kaQ-TtX1w"
+            },
+            {
+                "name": "repeating_npcaction_-LyXT3cLTUmtwd09eZsZ_attack_crit",
+                "current": "3d10",
+                "max": "",
+                "id": "-M1buVxpcf8nDIn5xxk3"
+            },
+            {
+                "name": "repeating_npcaction_-LyXT3cLTUmtwd09eZsZ_attack_crit2",
+                "current": "",
+                "max": "",
+                "id": "-M1buVxpcf8nDIn5xxk4"
+            },
+            {
+                "name": "repeating_npcaction_-LyXT3cLTUmtwd09eZsZ_rollbase",
+                "current": "@{wtype}&{template:npcfullatk} {{attack=1}} @{damage_flag} @{npc_name_flag} {{rname=@{name}}} {{r1=[[@{d20}+(@{attack_tohit}+0)]]}} @{rtype}+(@{attack_tohit}+0)]]}} {{dmg1=[[@{attack_damage}+0]]}} {{dmg1type=@{attack_damagetype}}} {{dmg2=[[@{attack_damage2}+0]]}} {{dmg2type=@{attack_damagetype2}}} {{crit1=[[@{attack_crit}+0]]}} {{crit2=[[@{attack_crit2}+0]]}} {{description=@{show_desc}}} @{charname_output}",
+                "max": "",
+                "id": "-M1buVxpcf8nDIn5xxk5"
+            },
+            {
+                "name": "repeating_npcaction_-LyXT3cLTUmtwd09eZsZ_attack_damage",
+                "current": "3d10",
+                "max": "",
+                "id": "-M1buVxpcf8nDIn5xxk6"
+            },
+            {
+                "name": "repeating_npcaction_-LyXT3cLTUmtwd09eZsZ_attack_damagetype",
+                "current": "Perfurante",
+                "max": "",
+                "id": "-M1buVxpcf8nDIn5xxk7"
+            },
+            {
+                "name": "repeating_npcaction_-LyXT3cLTUmtwd09eZsZ_description",
+                "current": "Ao acerto é adicionado o Bonûs de proficiência caso o atirador possua \"Proficiência em armas pesadas\", então é somado o bônus de proficiência + Destreza do atirador ao Acerto.\nCaso o atirador não possua o proficiência com armas pesadas, somente sua Destreza como modificador.",
+                "max": "",
+                "id": "-M1buVxpcf8nDIn5xxk8"
+            },
+            {
+                "name": "repeating_npcaction_-LyXT3cLTUmtwd09eZsZ_attack_tohit",
+                "current": "+12",
+                "max": "",
+                "id": "-M1buVxpcf8nDIn5xxk9"
+            },
+            {
+                "name": "repeating_npcaction_-LyXT3cLTUmtwd09eZsZ_npc_options-flag",
+                "current": "0",
+                "max": "",
+                "id": "-M1buVxpcf8nDIn5xxkA"
+            },
+            {
+                "name": "repeating_npcaction_-LyXT3cLTUmtwd09eZsZ_attack_range",
+                "current": "120/480 ft",
+                "max": "",
+                "id": "-M1buVxquA9elKryTtsu"
+            },
+            {
+                "name": "repeating_npcaction_-LyXT3cLTUmtwd09eZsZ_attack_target",
+                "current": "Um alvo",
+                "max": "",
+                "id": "-M1buVxrtHtm3qmUrvJC"
+            },
+            {
+                "name": "repeating_npcaction_-LyXT3cLTUmtwd09eZsZ_attack_type",
+                "current": "Ranged",
+                "max": "",
+                "id": "-M1buVxrtHtm3qmUrvJD"
+            },
+            {
+                "name": "strength_base",
+                "current": "14",
+                "max": "",
+                "id": "-M1buVxrtHtm3qmUrvJE"
+            },
+            {
+                "name": "strength_flag",
+                "current": 0,
+                "max": "",
+                "id": "-M1buVxrtHtm3qmUrvJF"
+            },
+            {
+                "name": "strength",
+                "current": 14,
+                "max": "",
+                "id": "-M1buVxswfFYkBA_NTln"
+            },
+            {
+                "name": "strength_mod",
+                "current": 2,
+                "max": "",
+                "id": "-M1buVxswfFYkBA_NTlo"
+            },
+            {
+                "name": "npc_str_negative",
+                "current": 0,
+                "max": "",
+                "id": "-M1buVxswfFYkBA_NTlp"
+            },
+            {
+                "name": "weighttotal",
+                "current": 0,
+                "max": "",
+                "id": "-M1buVxswfFYkBA_NTlq"
+            },
+            {
+                "name": "encumberance",
+                "current": " ",
+                "max": "",
+                "id": "-M1buVxtKv39IwR0Y7v6"
+            },
+            {
+                "name": "dexterity_base",
+                "current": "14",
+                "max": "",
+                "id": "-M1buVxtKv39IwR0Y7v7"
+            },
+            {
+                "name": "dexterity_flag",
+                "current": 0,
+                "max": "",
+                "id": "-M1buVxtKv39IwR0Y7v8"
+            },
+            {
+                "name": "dexterity",
+                "current": 14,
+                "max": "",
+                "id": "-M1buVxtKv39IwR0Y7v9"
+            },
+            {
+                "name": "dexterity_mod",
+                "current": 2,
+                "max": "",
+                "id": "-M1buVxtKv39IwR0Y7vA"
+            },
+            {
+                "name": "npc_dex_negative",
+                "current": 0,
+                "max": "",
+                "id": "-M1buVxtKv39IwR0Y7vB"
+            },
+            {
+                "name": "armorwarningflag",
+                "current": "hide",
+                "max": "",
+                "id": "-M1buVxtKv39IwR0Y7vC"
+            },
+            {
+                "name": "customacwarningflag",
+                "current": "hide",
+                "max": "",
+                "id": "-M1buVxuaxh--O4UyCKC"
+            },
+            {
+                "name": "ac",
+                "current": 12,
+                "max": "",
+                "id": "-M1buVxuaxh--O4UyCKD"
+            },
+            {
+                "name": "repeating_npctrait_-LyfxwUjMCqOBamcbWvk_name",
+                "current": "Manobrar (Reação)",
+                "max": "",
+                "id": "-M1buVxuaxh--O4UyCKE"
+            },
+            {
+                "name": "repeating_npctrait_-LyfxwUjMCqOBamcbWvk_npc_options-flag",
+                "current": "0",
+                "max": "",
+                "id": "-M1buVxuaxh--O4UyCKF"
+            },
+            {
+                "name": "repeating_npctrait_-LyfxwUjMCqOBamcbWvk_desc",
+                "current": "Pilotar a airship durante o combate requer habilidades e estratégia, aumentar ou diminuir, rotacionar ou fintar com a Airship pode tornar Aurora um alvo de acerto mais difícil para os projéteis. \nA reação o só pode ser utilizada por quem está no leme, o resultado deve ser comparado com o acerto inimigo.\n\n**Erro Crítico:** -1d4 CA\n**Menos do que o acerto:** 0 CA\n**para cada +5:** +1 CA \n**Acerto Crítico:** Bonûs + 1d4 CA\n\nAdicione a CA temporária para a Airship",
+                "max": "",
+                "id": "-M1buVxvKySv-1KpcpEl"
+            },
+            {
+                "name": "charisma_base",
+                "current": "10",
+                "max": "",
+                "id": "-M1buVxvKySv-1KpcpEm"
+            },
+            {
+                "name": "charisma_flag",
+                "current": 0,
+                "max": "",
+                "id": "-M1buVxvKySv-1KpcpEn"
+            },
+            {
+                "name": "charisma",
+                "current": 10,
+                "max": "",
+                "id": "-M1buVxvKySv-1KpcpEo"
+            },
+            {
+                "name": "charisma_mod",
+                "current": 0,
+                "max": "",
+                "id": "-M1buVxvKySv-1KpcpEp"
+            },
+            {
+                "name": "npc_cha_negative",
+                "current": 0,
+                "max": "",
+                "id": "-M1buVxvKySv-1KpcpEq"
+            },
+            {
+                "name": "constitution_base",
+                "current": "16",
+                "max": "",
+                "id": "-M1buVxwpKyD7PBN6PMg"
+            },
+            {
+                "name": "constitution_flag",
+                "current": 0,
+                "max": "",
+                "id": "-M1buVxwpKyD7PBN6PMh"
+            },
+            {
+                "name": "constitution",
+                "current": 16,
+                "max": "",
+                "id": "-M1buVxwpKyD7PBN6PMi"
+            },
+            {
+                "name": "constitution_mod",
+                "current": 3,
+                "max": "",
+                "id": "-M1buVxwpKyD7PBN6PMj"
+            },
+            {
+                "name": "npc_con_negative",
+                "current": 0,
+                "max": "",
+                "id": "-M1buVxwpKyD7PBN6PMk"
+            },
+            {
+                "name": "repeating_npctrait_-LyfxwUjMCqOBamcbWvk_description",
+                "current": "Pilotar a airship durante o combate requer habilidades e estratégia, aumentar ou diminuir, rotacionar ou fintar com a Airship pode tornar Etheris um alvo de acerto mais difícil para os projéteis. \nA reação o só pode ser utilizada por quem está no leme, o resultado deve ser comparado com o acerto inimigo.\n\n**Erro Crítico:** -1d4 CA\n**Menos do que o acerto:** 0 CA\n**para cada +5:** +1 CA \n**Acerto Crítico:** Bonûs + 1d4 CA\n\nAdicione a CA temporária para a Airship",
+                "max": "",
+                "id": "-M3TXDphu0fTezbBfKFG"
+            },
+            {
+                "name": "ui_flags",
+                "current": "",
+                "max": "",
+                "id": "-M3TtR8pFMSkfKcVSiFl"
+            },
+            {
+                "name": "repeating_npcaction_-M3TtRtdDLzcLCJ39w6A_name",
+                "current": "Canhão Espectral",
+                "max": "",
+                "id": "-M3TtVMiPLa0-bRZD50W"
+            },
+            {
+                "name": "repeating_npcaction_-M3TtRtdDLzcLCJ39w6A_attack_flag",
+                "current": "on",
+                "max": "",
+                "id": "-M3TtVNo3bq-r3ahrwUu"
+            },
+            {
+                "name": "repeating_npcaction_-M3TtRtdDLzcLCJ39w6A_attack_tohitrange",
+                "current": "+8, Reach 300/500 ft, 10 ft",
+                "max": "",
+                "id": "-M3TtVPyLN4tLs8X9f5m"
+            },
+            {
+                "name": "repeating_npcaction_-M3TtRtdDLzcLCJ39w6A_attack_onhit",
+                "current": "55 (10d10) force damage",
+                "max": "",
+                "id": "-M3TtVQ-8HoO2qCklIg8"
+            },
+            {
+                "name": "repeating_npcaction_-M3TtRtdDLzcLCJ39w6A_damage_flag",
+                "current": "{{damage=1}} {{dmg1flag=1}} ",
+                "max": "",
+                "id": "-M3TtVQ1W9QZgn0lnT1u"
+            },
+            {
+                "name": "repeating_npcaction_-M3TtRtdDLzcLCJ39w6A_attack_crit",
+                "current": "10d10",
+                "max": "",
+                "id": "-M3TtVQ3VuLNZe6NOXUP"
+            },
+            {
+                "name": "repeating_npcaction_-M3TtRtdDLzcLCJ39w6A_attack_crit2",
+                "current": "",
+                "max": "",
+                "id": "-M3TtVQ5cnaHdq4ZZCOt"
+            },
+            {
+                "name": "repeating_npcaction_-M3TtRtdDLzcLCJ39w6A_rollbase",
+                "current": "@{wtype}&{template:npcfullatk} {{attack=1}} @{damage_flag} @{npc_name_flag} {{rname=@{name}}} {{r1=[[@{d20}+(@{attack_tohit}+0)]]}} @{rtype}+(@{attack_tohit}+0)]]}} {{dmg1=[[@{attack_damage}+0]]}} {{dmg1type=@{attack_damagetype}}} {{dmg2=[[@{attack_damage2}+0]]}} {{dmg2type=@{attack_damagetype2}}} {{crit1=[[@{attack_crit}+0]]}} {{crit2=[[@{attack_crit2}+0]]}} {{description=@{show_desc}}} @{charname_output}",
+                "max": "",
+                "id": "-M3TtVQ7RpYGBF8nIC42"
+            },
+            {
+                "name": "repeating_npcaction_-M3TtRtdDLzcLCJ39w6A_attack_tohit",
+                "current": "8",
+                "max": "",
+                "id": "-M3TtYbDvS2u-YxLkHW3"
+            },
+            {
+                "name": "repeating_npcaction_-M3TtRtdDLzcLCJ39w6A_attack_range",
+                "current": "300/500 ft",
+                "max": "",
+                "id": "-M3TtcG7Ud69F52cH9nZ"
+            },
+            {
+                "name": "repeating_npcaction_-M3TtRtdDLzcLCJ39w6A_attack_target",
+                "current": "10 ft",
+                "max": "",
+                "id": "-M3TteE1EgRzKgiQFxir"
+            },
+            {
+                "name": "repeating_npcaction_-M3TtRtdDLzcLCJ39w6A_attack_damage",
+                "current": "10d10",
+                "max": "",
+                "id": "-M3TtknUv0j377I1j5Nl"
+            },
+            {
+                "name": "repeating_npcaction_-M3TtRtdDLzcLCJ39w6A_attack_damagetype",
+                "current": "force",
+                "max": "",
+                "id": "-M3TtscQVo4SLw73bU0w"
+            },
+            {
+                "name": "honor_save_bonus",
+                "current": 0,
+                "max": "",
+                "id": "-M3Tv8bUTP4E3e2DPUE7"
+            },
+            {
+                "name": "sanity_save_bonus",
+                "current": 0,
+                "max": "",
+                "id": "-M3Tv8bXsFZd1rPBLwHj"
+            },
+            {
+                "name": "showleveler",
+                "current": 0,
+                "max": "",
+                "id": "-M5FIHxbwyuCU-nOCxkQ"
+            },
+            {
+                "name": "invalidXP",
+                "current": 0,
+                "max": "",
+                "id": "-M5FIHxt0-hDINmbUDQ2"
+            },
+            {
+                "name": "USECOLOR",
+                "current": "YES",
+                "max": "",
+                "id": "-M5FL39LkU0mh3auN5XU"
+            },
+            {
+                "name": "repeating_npctrait_-M5ny3TVWeMXWEhnxRHk_description",
+                "current": "Rotaciona o Airship para favorecer o trajeto das artilharias da Airship, concedendo bonûs de acerto baseado na CA do oponente.\n\nO timoneiro efetua um teste de pilotagem, e utiliza o valor como base:\n\nErro Crítico: -1d4\nMenor que a CA do alvo: 0\nAo passar a CA +1 de Acerto\nA cada +5 que a CA do alvo: +1 de Acerto \nAcerto Crítico: Bonûs +1d4 ",
+                "max": "",
+                "id": "-M5ny494boCxMOH2tBge"
+            },
+            {
+                "name": "repeating_npctrait_-M5ny3TVWeMXWEhnxRHk_name",
+                "current": "Instância: Posição de Artilharia (Ação) [-DES]",
+                "max": "",
+                "id": "-M5ny5ddLtKkk8BF5l9j"
+            },
+            {
+                "name": "appliedUpdates",
+                "current": "fix_npc_missing_attack_display_flag_attribute,fix_npc_version_number,fix_npcs_in_modules_saves_and_ability_mods,fix_spell_attacks,fix_npc_in_modules_triggering_popup,fix_npc_actions_to_support_translation,fix_npc_attacks,fix_npc_attacks_with_auto_damage_roll,fix_npc_actions_with_damage,fix_npc_charname_output,fix_spell_school_ouput,fix_advantage_query",
+                "max": "",
+                "id": "-M7wbCwFev0Y-pwSETs9"
+            },
+            {
+                "name": "intelligence_mod",
+                "current": 0,
+                "max": "",
+                "id": "-M9ApIH63QjQmaUPI-7Q"
+            },
+            {
+                "name": "wisdom_mod",
+                "current": 0,
+                "max": "",
+                "id": "-M9ApIHDGsi1cNFSaytW"
+            },
+            {
+                "name": "advantagetoggle",
+                "current": "{{query=1}} {{advantage=1}} {{r2=[[@{d20}",
+                "max": "",
+                "id": "-MAJnQcT84pLPucNSfZu"
+            },
+            {
+                "name": "charname_output",
+                "current": "{{charname=@{npc_name}}}",
+                "max": "",
+                "id": "-MnYZBuHZbgrLMBfFrua"
+            },
+            {
+                "name": "queryadvantage",
+                "current": "{{query=1}} ?{Advantage?|Normal Roll,&#123&#123normal=1&#125&#125 &#123&#123r2=[[0d20|Advantage,&#123&#123advantage=1&#125&#125 &#123&#123r2=[[@{d20}|Disadvantage,&#123&#123disadvantage=1&#125&#125 &#123&#123r2=[[@{d20}}",
+                "max": "",
+                "id": "-MnYZBuw2ktPCj6xv5IL"
+            }
+        ],
+        "abilities": []
+    }
+}
